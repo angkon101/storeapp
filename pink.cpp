@@ -34,8 +34,11 @@ using namespace std;
 
 void angkon_taste_the_code()
 {   
+    for(int i=1; i<5; i++)
+    {
 
-    cout<<"Hello world";
+    cout<<"Hello world"<<endl;
+    }
  
 }
 
